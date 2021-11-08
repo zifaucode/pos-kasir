@@ -1,0 +1,2 @@
+FOOTER NYA
+<p style="text-align:center;">Copyright &copy; <?php echo date("Y");?> NAMA TOKO</p>
